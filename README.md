@@ -10,13 +10,13 @@ Este projeto foi criado utilizando:
 
 - função Math.random() do JavaScript para gerar números aleatórios;
 
-# ⚡Desafios implementados
+## ⚡Desafios implementados
 
 - Adicionar um número de tentativas para a pessoa tentar acertar e imprimir a resposta no final.
 - Quando a pessoa errar, deixar na mensagem se o número chutado é maior ou menor que o número secreto.
 Pesquisar e aprender a diferença entre == e ===
 
-# Página do projeto
+### Página do projeto
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/nathally/pen/zYLypQR](https://codepen.io/nathally/pen/zYLypQR).
 
