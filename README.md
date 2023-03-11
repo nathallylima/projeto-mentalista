@@ -16,7 +16,7 @@ Este projeto foi criado utilizando:
 - Quando a pessoa errar, deixar na mensagem se o número chutado é maior ou menor que o número secreto.
 Pesquisar e aprender a diferença entre == e ===
 
-### Página do projeto
+## Página do projeto
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/nathally/pen/zYLypQR](https://codepen.io/nathally/pen/zYLypQR).
 
